@@ -75,6 +75,5 @@ The project was developed using industry-standard analytics tools and technologi
 * Power BI & DAX
 
 ## Dashboard Preview
-![Customer Behavior Dashboard](<img width="1063" height="593" alt="Screenshot 2026-06-04 110319" src="https://github.com/user-attachments/assets/17665baf-014e-4682-b08c-6db78cbfcb5e" />
-)
+![Customer Behavior Dashboard](dashborad_preview.png)
 
